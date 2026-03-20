@@ -15,14 +15,6 @@
 
 ---
 
-# Como executar o projeto
-
-```bash
-npm install
-node server.js
-
----
-
 # Endpoints da API
 
 ## 1️. Listar todos os livros
