@@ -119,4 +119,5 @@ Resultado:
 Resultado: 
 
 ![Lista atualizada](imagens-api/8.Listar-todos-atualizado.png)
+![Lista atualizada](imagens-api/8.1Listar-todos-atualizado.png)
 
