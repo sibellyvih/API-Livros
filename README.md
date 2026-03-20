@@ -24,9 +24,9 @@
 
 Resultado:
 
-![GET livros](Imagens atividade api/1.Listar todos.png)
-![GET livros](Imagens atividade api/1.1 Listar todos.png)
-![GET livros](Imagens atividade api/1.2 Listar todos.png)
+![GET livros](imagens-api/1.Listar-todos.png)
+![GET livros](imagens-api/1.1Listar-todos.png)
+![GET livros](imagens-api/1.2Listar-todos.png)
 
 ---
 
@@ -39,7 +39,7 @@ Exemplo: /livros/1
 
 Resultado:
 
-![GET por ID](Imagens atividade api/2.ID.png)
+![GET por ID](imagens-api/2.ID.png)
 
 ---
 
@@ -50,7 +50,7 @@ Resultado:
 
 Resultado:
 
-![Filtro por gênero](Imagens atividade api/3.Gênero.png)
+![Filtro por gênero](imagens-api/3.Gênero.png)
 
 ---
 
@@ -63,7 +63,7 @@ Resultado:
 
 Resultado:
 
-![Ordenação por título](Imagens atividade api/4.Título.png)
+![Ordenação por título](imagens-api/4.Título.png)
 
 ---
 
@@ -74,7 +74,7 @@ Resultado:
 
 Resultado:
 
-![Ordenação por nota](Imagens atividade api/5.Nota.png)
+![Ordenação por nota](imagens-api/5.Nota.png)
 
 ---
 
@@ -85,7 +85,7 @@ Resultado:
 
 Resultado:
 
-![Paginação](Imagens atividade api/6.Paginação.png)
+![Paginação](imagens-api/6.Paginação.png)
 
 ---
 
@@ -96,7 +96,6 @@ Resultado:
 
 ### Body da requisição
 
-```json
 {
  "titulo": "Harry Potter",
  "autor": "J.K Rowling",
@@ -105,9 +104,10 @@ Resultado:
  "nota": 9
 }
 
+
 Resultado: 
 
-![Criação de livro usando Post](Imagens atividade api/7. Post.png)
+![Criação de livro usando Post](imagens-api/7.Post.png)
 
 ---
 
@@ -118,5 +118,5 @@ Resultado:
 
 Resultado: 
 
-![Lista atualizada](Imagens atividade api/8. Listar todos atualizado.png)
+![Lista atualizada](imagens-api/8.Listar-todos-atualizado.png)
 
